@@ -321,6 +321,7 @@
 "Assets/scripts/DestroyOutOfBounds.cs"
 "Assets/scripts/MoveForward.cs"
 "Assets/scripts/PlayerController.cs"
+"Assets/scripts/SpawnManager.cs"
 -langversion:8.0
 
 /deterministic
